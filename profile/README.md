@@ -8,8 +8,8 @@ is ever deleted.
 
 ### What is here
 
-Two things, and one reason for both: each is a claim that would otherwise have to be
-taken on trust.
+Two repositories, both here so you can check something we said instead of taking our
+word for it.
 
 **[humainbox-wordpress](https://github.com/humainbox/humainbox-wordpress)** — *WordPress
 plugin.* It lists every contact form on a site and the address each one currently
@@ -18,11 +18,11 @@ back. The first half needs no account, and it is the half most sites have never 
 forms accumulate, and the address in one of them was typed years ago by whoever built the
 site.
 
-It is public because its two load-bearing promises are negative ones — **it makes no
-network requests at all, and it prints nothing on the public site** — and a negative claim
-cannot be demonstrated by a page saying so. Its README ships the exact `grep` for each,
-and the claims were written from those greps rather than the other way round. It is not a
-separate product: it is one field in a form's own settings, with a screen in front of it.
+The two things most worth knowing about it are things it does not do: **it never makes a
+network request, and it never puts anything on the public side of a site.** Neither can be
+proved by a page saying so, so the README hands you the `grep` for each. It is not a
+separate product — it is one field in a form's own settings, with a screen in front of
+it.
 
 **[contact-page-study](https://github.com/humainbox/contact-page-study)** — *research
 instrument.* The instrument
