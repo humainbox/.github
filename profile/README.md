@@ -4,8 +4,6 @@ We stand between a contact form and the mailbox behind it. Machine-written junk 
 back, the enquiries a person actually wrote go to whoever should answer them, and nothing
 is ever deleted.
 
-Started in 2026. One product, no plan for a second.
-
 ---
 
 ### What is here
@@ -23,8 +21,8 @@ site.
 It is public because its two load-bearing promises are negative ones — **it makes no
 network requests at all, and it prints nothing on the public site** — and a negative claim
 cannot be demonstrated by a page saying so. Its README ships the exact `grep` for each,
-and the claims were written from those greps rather than the other way round. This is not
-a second product; it is one field in a form's own settings, with a screen in front of it.
+and the claims were written from those greps rather than the other way round. It is not a
+separate product: it is one field in a form's own settings, with a screen in front of it.
 
 **[contact-page-study](https://github.com/humainbox/contact-page-study)** — *research
 instrument.* The instrument
